@@ -6,7 +6,6 @@
 //     }
 // }
 
-
 // Question 2:
 // Write a JavaScript while loop that calculates the factorial of a given number.
 // var i = 5;
