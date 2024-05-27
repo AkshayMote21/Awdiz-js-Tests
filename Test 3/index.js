@@ -105,6 +105,7 @@ console.log(duplicateRemove(array));
 // Output:
 // 3
 
+
 // Question 8:
 // Write a JavaScript function that takes a string as input and returns the first non-repeated character. If all characters are repeated, return null.
 // Input:
