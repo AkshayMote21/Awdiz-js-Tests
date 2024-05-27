@@ -14,6 +14,7 @@
 
 //---------------------------------------------------------------------------------------------------------------
 // Question 2:Create a JavaScript function that checks if a given string is a palindrome (reads the same forwards and backwards).
+
 // Input: "madam"
 // function palindrome(string){
 //     var reverseString = "" ;
